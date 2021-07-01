@@ -1,0 +1,8 @@
+body{
+    text-align: center;
+}
+.line{
+    width: 1425px;
+    height: 1px;
+    background-color: black;
+}
